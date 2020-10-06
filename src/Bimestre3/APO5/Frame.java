@@ -1,14 +1,14 @@
-package APO5.src;
+package Bimestre3.APO5;
 
 import java.awt.Color;
 import java.awt.FlowLayout;
-import java.awt.Font;
 import java.awt.event.*;
 
 import javax.swing.*;
 
 public class Frame extends JFrame implements ItemListener {
 
+	private static final long serialVersionUID = 1L;
 	JCheckBox check1, check2, check3, check4, check5, check6;
 	
 	
